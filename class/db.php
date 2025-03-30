@@ -4,7 +4,7 @@ class Db{
     
     public $serverName = "localhost";
     public $userName = "root";
-    public $password = "Password123";
+    public $password = "Password";
     public $dbName = "todolistdb"; 
 
     public function connect(){
